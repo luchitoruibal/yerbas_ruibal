@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(149, 212, 149);
+}
+#titulo_principal {
+    color: white;
+    font-family: 'Cormorant SC', serif;
+    font-size: 75px;
+    text-align: center;
+    height: 300px;
+    background-size: 750px;
+    margin: 0%;
+    padding: 0%;
+}
+li{color: rgb(255, 255, 255);
+list-style-type: none;
+display: inline-block;
+width: 16%;
+text-align: right;
+font-size: 25px;
+font-family: fantasy
+}
+nav{
+    height: 50px;
+}
+footer{
+    bottom: 300px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(121, 128, 123);
+    margin-top: 100px;
+    text-align: center;
+    
+    
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(50, 143, 50);
+    text-align: center;
+}
+#main_acc{
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    line-height: 50px;
+}
+
+.div_contacto{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serie;
+    line-height: 20px;
+}
+
+.main_index{
+    display: grid;
+    justify-items: end;
+    align-items: bottom;
+}
+.body_index{
+    background-image: url(./img/yerba3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#body_ubi{;
+    background-repeat: no-repeat;
+    background-size: 100%;    
+}
+h5{
+    color: black;
+}
+iframe{
+    align-content: center;
+}
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    
+}
+#table{
+    border: 4px solid black;
+    margin: auto;
+
+}
+
+.tr_dos{
+    border: 2px solid black;
+}
